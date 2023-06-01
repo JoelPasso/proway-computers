@@ -34,3 +34,4 @@ import { BarraPesquisaComponent } from './barra-pesquisa/barra-pesquisa.componen
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//final em 31/05/2023
